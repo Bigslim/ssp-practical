@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF=8" standalone="yes"?>
+<menu>
+    <category name="Coffee">
+        <item>
+            <listing>Espresso</listing>
+            <price>3.00</price>
+        </item>
+        <item>
+            <listing>Americano</listing>
+            <price>4.00</price>
+        </item>
+        <item decaf="true">
+            <listing>Americano</listing>
+            <price>4.00</price>
+        </item>
+    </category>
+    <category name="Frappe">
+        <item>
+            <listing>Salted Caramel</listing>
+            <price>4.50</price>
+        </item>
+        <item decaf="true">
+            <listing>Salted Caramel</listing>
+            <price>4.50</price>
+        </item>
+    </category>
+    <category name="Iced Coffee">
+        <item>
+            <listing>Americano</listing>
+            <price>4.50</price>
+        </item>
+        <item decaf="true">
+            <listing>Americano</listing>
+            <price>4.50</price>
+        </item>
+    </category>
+    <category name="Tea">
+        <item>
+            <listing>Mint</listing>
+            <price>2.50</price>
+        </item>
+        <item decaf="true">
+            <listing>Black</listing>
+            <price>2.50</price>
+        </item>
+    </category>
+    <category name="Deserts">
+        <item>
+            <listing>Chocolate Brownie</listing>
+            <price>4.50</price>
+        </item>
+    </category>
+</menu>
