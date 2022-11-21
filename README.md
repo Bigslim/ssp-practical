@@ -1,2 +1,0 @@
-# ssp-practical
- for practice
